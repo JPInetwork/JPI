@@ -11,6 +11,14 @@
   </head>
   <body>
     <section class="page-header">
+<<<<<<< HEAD
+	<h1 class="project-name">Jpi</h1>
+	<h2 class="project-tagline"></h2>
+	<a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
+	<a href="https://trello.com/b/isZyUqdK/td-git" class="btn">Trello</a>
+	<a href="http://fr.slideshare.net/sergehardy1/cours-extreme-programming" class="btn">Slide Extreme Programming</a>
+    </section>
+=======
       <h1 class="project-name">Jpi</h1>
       <h2 class="project-tagline"></h2>
       <a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
@@ -19,6 +27,7 @@
       <a href="https://github.com/HoudayerPierre" class="btn">Pierre Houdayer</a>
       <a href="https://github.com/iandeveseleer" class="btn">Ian Deveseleer</a>    
 </section>
+>>>>>>> cf1687c5afe8c87e23d37749637cd9d1080babdc
 
     <section class="main-content">
       <h3>
