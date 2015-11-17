@@ -13,9 +13,12 @@
     <section class="page-header">
       <h1 class="project-name">Jpi</h1>
       <h2 class="project-tagline"></h2>
+<<<<<<< HEAD
       <a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
+=======
+      <a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le GitHub</a>
+>>>>>>> be89614253738f9e56a1c44c6e86744484e94420
       <a href="https://trello.com/b/isZyUqdK/td-git" class="btn">Trello</a>
-      <a href="https://github.com/JPInetwork/JPI/tarball/master" class="btn">Download .tar.gz</a>
     </section>
 
     <section class="main-content">
