@@ -23,7 +23,7 @@
       <h2 class="project-tagline"></h2>
       <a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
       <a href="https://trello.com/b/isZyUqdK/td-git" class="btn">Trello</a>
-      <a href="TP.html class="btn">Lien vers le TP</a>
+      <a href="TP.html" class="btn">Lien vers le TP</a>
 </section>
 >>>>>>> cf1687c5afe8c87e23d37749637cd9d1080babdc
 
