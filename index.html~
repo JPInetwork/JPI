@@ -12,21 +12,27 @@
   <body>
     <section class="page-header">
 <<<<<<< HEAD
+=======
+
 	<h1 class="project-name">Jpi</h1>
 	<h2 class="project-tagline"></h2>
 	<a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
 	<a href="https://trello.com/b/isZyUqdK/td-git" class="btn">Trello</a>
 	<a href="http://fr.slideshare.net/sergehardy1/cours-extreme-programming" class="btn">Slide Extreme Programming</a>
     </section>
-=======
+
+<<<<<<< HEAD
+>>>>>>> 290dcfa6b107f255f4c1cbeea7793e1d4a767509
       <h1 class="project-name">Jpi</h1>
       <h2 class="project-tagline"></h2>
       <a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
       <a href="https://trello.com/b/isZyUqdK/td-git" class="btn">Trello</a>
       <a href="TP.html" class="btn">Lien vers le TP</a>
 </section>
->>>>>>> cf1687c5afe8c87e23d37749637cd9d1080babdc
 
+=======
+      
+>>>>>>> 07a83e0294f96d641ff3b432a9cd936084f8811f
     <section class="main-content">
       <h3>
 <a id="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages" aria-hidden="true"><span class="octicon octicon-link"></span></a>Bienvenue !</h3>
