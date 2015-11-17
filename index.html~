@@ -15,7 +15,10 @@
       <h2 class="project-tagline"></h2>
       <a href="https://github.com/JPInetwork/JPI" class="btn">Aller sur le Github</a>
       <a href="https://trello.com/b/isZyUqdK/td-git" class="btn">Trello</a>
-    </section>
+      <a href="https://github.com/PaillardJulien" class="btn">Julien Paillard</a>
+      <a href="https://github.com/HoudayerPierre" class="btn">Pierre Houdayer</a>
+      <a href="https://github.com/iandeveseleer" class="btn">Ian Deveseleer</a>    
+</section>
 
     <section class="main-content">
       <h3>
